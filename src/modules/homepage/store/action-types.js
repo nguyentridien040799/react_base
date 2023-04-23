@@ -1,0 +1,4 @@
+export const EXPLORE_MODE = "EXPLORE_MODE";
+export const CHALLENGE_MODE = "CHALLENGE_MODE";
+export const TODAY_EXAMPLE_MODE = "TODAY_EXAMPLE_MODE";
+export const OTHER_MODES = "OTHER_MODES";
